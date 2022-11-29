@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d3dcf3-3fe1-4d0b-a32d-cf18784939e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/9-print_last_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/9-print_last_digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-print_comb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-print_comb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-print_comb3.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-print_comb3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/johnson.oyesina/Documents/alx-stuff/Johnny/alx-higher_level_programming/0x01-python-if_else_loops_functions&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johnson.oyesina\Documents\alx-stuff\Johnny\alx-higher_level_programming\0x01-python-if_else_loops_functions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0x01-python-if_else_loops_functions" />
