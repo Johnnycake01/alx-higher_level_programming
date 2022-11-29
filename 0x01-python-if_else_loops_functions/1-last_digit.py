@@ -6,11 +6,10 @@ stringNumber = str(number)
 lastDigitOfNumber = int(stringNumber[len(stringNumber) - 1])
 if number < 0:
     lastDigitOfNumber = -lastDigitOfNumber
-comment = ""
-if lastDigitOfNumber > 5:
-    comment = "and is greater than 5"
-elif lastDigitOfNumber == 0:
-    comment = "and is 0"
-elif lastDigitOfNumber < 6 and lastDigitOfNumber != 0:
-    comment = "and is less than 6 and not 0"
-print("Last digit of {:d} is {:d} {:s}".format(number, lastDigitOfNumber, comment))
+print("Last digit of {:d} is {:d} ".format(number, lastDigitOfNumber), end='')
+if 5 < lastDigitOfNumber:
+    print("and is greater than 5")
+elif 0 == lastDigitOfNumber:
+    print("and is 0")
+elif 6 > lastDigitOfNumber != 0:
+    print("and is less than 6 and not 0")
