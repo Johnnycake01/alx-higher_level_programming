@@ -4,6 +4,8 @@ import random
 number = random.randint(-10000, 10000)
 stringNumber = str(number)
 lastDigitOfNumber = int(stringNumber[len(stringNumber) - 1])
+if number < 0:
+    lastDigitOfNumber = -lastDigitOfNumber
 comment = ""
 if lastDigitOfNumber > 5:
     comment = "and is greater than 5"
